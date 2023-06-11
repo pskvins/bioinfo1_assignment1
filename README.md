@@ -1,4 +1,4 @@
-Probably will have MLM deep learning application learning about the weird part of the read
+# Description of the files for final project
 
 hglft_genome_26f96_1bb000.bed: Output bed file from mm9 to mm10, gene mirlet7d, mirlet7f-1
 
